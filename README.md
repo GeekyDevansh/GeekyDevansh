@@ -1,7 +1,7 @@
 # <img src="https://github.com/Shiv-sharma-111/Shiv-sharma-111/blob/master/Assets/Hi.gif" width="29px"> Hello World!&nbsp;<img src="https://github.com/Shiv-sharma-111/Shiv-sharma-111/blob/master/Assets/Earth.gif" width="24px"> 
 ## I am Devansh Khullar
 
-<em> I am a 2nd year undergraduate student from NIT Jalandhar, passionate about problem solving, software engineering and web development.</em>
+<em> I am a 3rd year undergraduate student from NIT Jalandhar, passionate about problem solving, software engineering and web development.</em>
 - 👨🏻‍💻 Currently working on the MERN stack.
 - 🔭 C++ and JavaScript are ❤️.
 - 📽️ Check out my projects [Moda](https://moda-online-shopping.vercel.app/) , [RaktBank]( https://raktbank.xyz/) , [VideoChat-App ](https://video-chat-app-14.netlify.app/) , [MemoriesApp](https://my-memories-app123.netlify.app/) , [NewsApp](https://github.com/GeekyDevansh/NewsApp).
