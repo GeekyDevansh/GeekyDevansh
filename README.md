@@ -5,7 +5,7 @@
 - 👨🏻‍💻 Currently working on the MERN stack.
 - 🔭 C++ and JavaScript are ❤️.
 - 📽️ Check out my projects [macOS Clone](https://github.com/GeekyDevansh/macOS) , [My Portfolio](https://github.com/GeekyDevansh/MyPortfolio) , [Moda](https://moda-online-shopping.vercel.app/) , [RaktBank]( https://raktbank.xyz/) , [VideoChat-App ](https://video-chat-app-14.netlify.app/) , [MemoriesApp](https://my-memories-app123.netlify.app/) , [NewsApp](https://github.com/GeekyDevansh/NewsApp).
-- ⚡ 2023 Goals : Contribute to Open Source Projects.
+- ⚡ 2024 Goals : Contribute to Open Source Projects.
 - 🚀 What made the JavaScript developer so sad? He did not Node how to Express himself.🤣
 ---
 ### Languages and Tools that I use
